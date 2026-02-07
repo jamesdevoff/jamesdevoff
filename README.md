@@ -1,5 +1,6 @@
 <div align="center">
-
+<!-- ULTRA ANIMATED 3D HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=JAMES%20OFFICIAL&fontSize=70&color=0:8A2BE2,50:00CED1,100:FF1493&stroke=FFD700&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20Code%20Architect%20•%20Innovation%20Engineer&descAlignY=51&descSize=20"/>
 <!-- ULTRA ANIMATED 3D HEADER -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&duration=2500&pause=600&color=FF00CC&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%9A%80+WELCOME+TO+MY+PROFILE;%F0%9F%92%BB+JAMES+TECH+INC;%F0%9F%94%A5+BUILDING+THE+FUTURE" />
